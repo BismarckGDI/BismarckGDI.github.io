@@ -2,3 +2,7 @@
 	path = intro-to-html-css
 	url = https://github.com/BismarckGDI/intro-to-html-css.git
 	branch = master
+[submodule "gdi-intro-web-concepts"]
+	path = gdi-intro-web-concepts
+	url = https://github.com/BismarckGDI/gdi-intro-web-concepts.git
+	branch = master
